@@ -1,20 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1",
-      "title": "Senior React Developer",
-      "type": "Full-Time",
-      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
-      "location": "Boston, MA",
-      "salary": "$70K - $80K",
-      "company": {
-        "name": "NewTek Solutions",
-        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
-        "contactEmail": "contact@teksolutions.com",
-        "contactPhone": "555-555-5555"
-      }
-    },
-    {
       "id": "2",
       "title": "Front-End Engineer (React & Redux)",
       "type": "Full-Time",
@@ -74,9 +60,9 @@
       "id": "6",
       "title": "React Native Developer",
       "type": "Full-Time",
-      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
       "location": "Portland, OR",
-      "salary": "$100K - $110K",
+      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "salary": "$60K - 70K",
       "company": {
         "name": "Port Solutions INC",
         "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
@@ -96,6 +82,20 @@
         "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "e668",
+      "title": "Magni tenetur est iu",
+      "type": "Remote",
+      "location": "Quia quae ut accusan",
+      "description": "Incidunt tempor rei",
+      "salary": "$70K - 80K",
+      "company": {
+        "name": "Greene and Singleton LLC",
+        "description": "Ipsam anim earum pra",
+        "contactEmail": "vilem@mailinator.com",
+        "contactPhone": "+1 (224) 267-9022"
       }
     }
   ]
